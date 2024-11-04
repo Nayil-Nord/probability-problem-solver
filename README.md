@@ -1,2 +1,2 @@
 # probability-problem-solver
-A Python script that helps identify the type of probability problem and provides solution guidance through a series of questions. Perfect for students learning probability theory.
+Скрипт Python, который помогает определить тип проблемы вероятности и предоставляет руководство по решению с помощью серии вопросов. Идеально подходит для студентов, изучающих теорию вероятности.
