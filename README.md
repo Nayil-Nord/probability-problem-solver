@@ -1,2 +1,3 @@
-# probability-problem-solver
-Скрипт Python, который помогает определить тип проблемы вероятности и предоставляет руководство по решению с помощью серии вопросов. Идеально подходит для студентов, изучающих теорию вероятности.
+
+## Src
+  * [Probability Task Identifier](src/probability_task_identifier.py)
